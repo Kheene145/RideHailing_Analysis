@@ -75,6 +75,7 @@ The analysis result are summarized as follows
   The dataset lacks contextual variables like time of the day, traffic conditions or geographical information, limiting deeper insights into operational factors. Additionally, the absence of customer feedback data restrict s the abilit to fully assess customer satisfaction and experince.
 
 
+
 ### References
 1. [Kaggle.com](https://www.kaggle.com/datasets/rishabhrajsharma/cityride-dataset-rides-data-drivers-data?resource=download&select=Rides_Data.csv)
 2. Python libraries such as:
@@ -83,4 +84,11 @@ The analysis result are summarized as follows
    - Seaborn
    - scikit-learn
 
+
+🙂😄
+💻
+|Heading1|Heading2|
+|--------|--------|
+|Content1|Content2|
+|Python|Jupyter Notebook|
   
